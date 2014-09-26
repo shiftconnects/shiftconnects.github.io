@@ -6,7 +6,7 @@ tag: CEO-Blog
 ---
 *From Zach Ware, Founder & CEO*
 
-![SHIFT](../public/images/square-logo-300x300.png)Project 100 started just over a year ago with a simple belief. People are happier when they can more easily connect with the people and places they care about. Most people heard of us thanks to our plans to acquire a significant number of Tesla Model Ss. But that was only part of the story, like focusing on the carpet order for a massive art museum.
+![SHIFT](./public/images/square-logo-300x300.png)Project 100 started just over a year ago with a simple belief. People are happier when they can more easily connect with the people and places they care about. Most people heard of us thanks to our plans to acquire a significant number of Tesla Model Ss. But that was only part of the story, like focusing on the carpet order for a massive art museum.
 
 We aim for our soon-to-be-members’ use experiences to be incredibly simple, while the complexity of what we do rests in the hands of our team, behind the scenes. In our core service area, first in Las Vegas and soon in other cities, we will enable people to be on their way riding, driving or biking within five minutes. We’re combining small city cars, larger sedans, shuttles, bikes and more into a single monthly membership designed to remove your thoughts about cost as a factor in whether or not you should go somewhere. By the end of the year we will not only replace your car, but we’ll deliver so much more than your car could ever deliver. And we’ll be far more affordable than you might think.
 
