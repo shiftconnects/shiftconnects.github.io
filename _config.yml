@@ -1,8 +1,8 @@
 excerpt_separator: ""
 pygments: true
 markdown: kramdown
-url: http://zachware.github.io
+url: http://shiftconnects.github.io
 title: Inside SHIFT
 tagline: Peek under the hood
-description: My awesome new site
+description: Be on your way within five minutes.
 paginate: 5

@@ -2,7 +2,6 @@
 published: true
 title: The First Vehicles
 layout: post
-category: CEO Blog
 ---
 *From Zach Ware, Founder & CEO*
 
