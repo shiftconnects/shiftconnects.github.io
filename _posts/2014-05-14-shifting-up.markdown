@@ -2,7 +2,7 @@
 published: true
 title: Shifting Up
 layout: post
-category: CEO Blog
+tag: CEO-Blog
 ---
 *From Zach Ware, Founder & CEO*
 
