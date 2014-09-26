@@ -6,7 +6,7 @@ category: CEO Blog
 ---
 *From Zach Ware, Founder & CEO*
 
-<img src="../public/images/2014-06-14-11.31.57-1024x768.jpg" width="600" />
+<img src="/public/images/2014-06-14-11.31.57-1024x768.jpg" width="600" />
 
 Today SHIFT is one step closer to changing the way you move in a city. This morning we took delivery of our first wave of fleet vehicles from our close partners at Tesla. Building a fleet as large as ours means we’ll be taking delivery of vehicles rather frequently so most delivery days won’t be a big deal, but today was special since these are the first vehicles we’ve received specifically configured to help you connect with the places and experiences you care about.
 
@@ -14,6 +14,6 @@ Over the coming weeks and months preceding our launch we will be taking delivery
 
 Congrats to our operations team who just checked off a task they have been working on for almost a year. Stay tuned for more as we march towards our large scale launch later this summer.
 
-![Cars](../public/images/Screenshot-2014-06-14-11.56.05.png)
+![Cars](/public/images/Screenshot-2014-06-14-11.56.05.png)
 
 # shifthappens

@@ -28,7 +28,7 @@ If you’ve been around Las Vegas over the past few weeks you’ve probably seen
 
 Project 100 is becoming Shift. As you hear from us more over the next few months leading to our full public launch, we will be Shift. The journey we’re embarking on is long and sure to be filled with challenges. Our team is up to the task and we’re looking forward to taking you on the journey with us. The obstacles don’t scare us because, as you know, Shift Happens.
 
-<img src="../public/images/logo-final-print-shifthappens-1024x64.png" width="400" />
+<img src="/public/images/logo-final-print-shifthappens-1024x64.png" width="400" />
 
 P.S. Send me a note at ceo@goproject100.com with your address and we’ll send you a sticker and maybe even a t-shirt if we have your size. 
 
