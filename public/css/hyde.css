@@ -358,7 +358,7 @@ a.sidebar-nav-item:focus {
 }
 
 a.blog {
-	color: #43A3C7;
+	color: rgba(50,59,76,.6);
 }
 
 .btn {
