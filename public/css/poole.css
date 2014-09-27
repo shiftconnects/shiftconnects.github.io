@@ -385,3 +385,48 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+/*  Mobile (Portrait) - 320px
+================================================== */
+
+@media only screen and (max-width: 767px) {
+	#header {
+		padding-top: 280px;
+	}
+
+	#header #value-prop h1 {
+		margin-bottom: 5px;
+		font-size: 2em;
+		line-height: 1.1em;
+	}
+
+	#header #value-prop h2 {
+		font-size: 1em;
+	}
+
+	.navigation #blog,
+	.navigation #about,
+	.navigation #help {
+		display: none;
+	}
+
+	#plans {
+		padding: 20px 0 0;
+		border: 0;
+	}
+
+	.plan {
+		margin-bottom: 15px !important;
+	}
+
+	#testimonials .four {
+		margin-bottom: 20px;
+	}
+
+	#mission h2 {
+		font-size: 1.17em;
+	}
+	.sidebar {
+		display: none;
+	}
+}
