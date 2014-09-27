@@ -2,9 +2,41 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
+  
+  
+<div class="title">
+  <div class="container">
+  <script type="text/javascript" src="//assets.zendesk.com/external/zenbox/v2.6/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//assets.zendesk.com/external/zenbox/v2.6/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20193680",
+      url:         "https://project100.zendesk.com",
+      tabTooltip:  "Support",
+      tabImageURL: "https://p2.zdassets.com/external/zenbox/images/tab_support.png",
+      tabColor:    "black",
+      tabPosition: "Left",
+      hide_tab: true
+    });
+  }
+</script>
+  
+    <a href="/"><img src="http://shiftconnects.com/images/shift-logo@2x.png" width="140" /></a>
+       <div class="navigation">
+ <a href="http://inside.shiftconnects.com" id="blog" target="_blank" class="blog">Blog</a> <a href="/about" id="about">About SHIFT</a> <a href="/faq" id="faq">FAQs</a>  <a href="http://myaccount.zendesk.com/account/dropboxes/20193680" onClick="script: Zenbox.show(); return false;" id="help">Help</a> <a href="/apply" id="apply" class="btn">Apply</a>
+    </div>
+    <script type="text/javascript">
+    mixpanel.track_links("#navigation a", "Click Nav Link", {
+        "referrer": document.referrer
+    });
+</script>
+  </div>
+</div>
 
   <body>
-
     {% include sidebar.html %}
 
     <div class="content container">

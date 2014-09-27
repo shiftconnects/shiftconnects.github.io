@@ -47,16 +47,6 @@ body {
   padding: 0;
 }
 
-html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-}
-@media (min-width: 38rem) {
-  html {
-    font-size: 20px;
-  }
-}
 
 body {
   color: #515151;
@@ -200,11 +190,7 @@ blockquote p:last-child {
   }
 }
 
-img {
-  display: block;
-  margin: 0 0 1rem;
-  border-radius: 5px;
-}
+
 
 /* Tables */
 table {
@@ -258,7 +244,6 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 38rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
