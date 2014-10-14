@@ -3,6 +3,7 @@ published: true
 title: One Year
 layout: post
 category: CEO-Blog
+category: Engineering
 ---
 *From Zach Ware, Founder & CEO*
 
@@ -23,4 +24,5 @@ Thank you for believing in our vision. Thank you for jumping on this train with 
 We’re going to change the world.
 
 Zach
+
 <img src="/public/images/Screen-Shot-2013-03-27-at-4.51.06-PM.png" width="250" />

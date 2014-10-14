@@ -25,6 +25,12 @@
       {% endfor %}
 
     </ul>
+    
+<ul class="categories">
+{% for category in site.categories %}
+  <li><a href="#{{ category | first }}">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
 
     <p class="copy">&copy; 2013-2014. All rights reserved.</p>
   </div>

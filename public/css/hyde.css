@@ -380,3 +380,7 @@ a.blog {
 	position: absolute;
 	width: 960px;
 	}
+
+.categories {
+	list-style: none;
+}
