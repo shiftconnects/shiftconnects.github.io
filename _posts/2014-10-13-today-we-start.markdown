@@ -9,6 +9,7 @@ category: CEO-Blog
 <img src="/public/images/10606580_10102181417443869_2684316998095785602_n.jpg" width="600" />
 
 Today is a big day for SHIFT. After more than a year of work we welcomed our first members. Over the last year we’ve built a lot of things:
+
 * In-car hardware and software that rivals any car sharing company on the planet.
 * Not only member-facing iOS and Android applications but internal-facing applications in both to manage our rebalancing and system support operations.
 * A dedicated team of Connectors focused on rebalancing and maintaining a fleet that’s within five minutes of all of our members in our core service area.
