@@ -20,7 +20,7 @@ The future for SHIFT is bright. We’re excited to be able to bring our vision t
 
 Over the next few months we’ll enable our members to do so many more things in a day than they can now. We’ll connect them to places closeby but too far to walk. We’ll connect them to experiences they otherwise would miss. We believe that we can fundamentally change how our members interact with their cities and how cities develop themselves.
 
-Today we took a big step in that direction. Come join us. 
+Today we took a big step in that direction. [Come join us as a member](https://shiftconnects.com/apply) or [join our team](https://project100.recruiterbox.com/). 
 
 Zach
 
