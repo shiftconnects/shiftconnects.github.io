@@ -1,6 +1,6 @@
 ---
 published: true
-title: Josh Will Interrupt you but so will 
+title: Show Us Your Shift
 layout: post
 category: CEO-Blog
 ---
