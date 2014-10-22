@@ -1,8 +1,8 @@
 ---
 published: true
-title: The First Vehicles
+title: Product Shit
 layout: post
-category: CEO-Blog
+category: Patrick-Test
 ---
 *From Zach Ware, Founder & CEO*
 
