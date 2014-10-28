@@ -9,6 +9,7 @@ category: safety
 When you think about SHIFT, you probably imagine our unique vehicles, awesome mobile application or great customer service. And those are the experiences we want you to think about. But behind the scenes, SHIFT has set industry-leading safety standards that allow you to connect with the people and places you care about.
 
 A team of Connectors works around the clock to make sure SHIFT’s on-ground operations function smoothly and safely. So, what does a Connector do? Anything a member needs for SHIFT to integrate seamlessly with your life. Our Connectors provide a variety of tasks, many of which you may not realize. They:
+
 # make sure vehicles and bicycles are properly distributed throughout the city
 # make sure vehicles and bicycles are mechanically sound
 # keep the interior and exterior of vehicles clean
