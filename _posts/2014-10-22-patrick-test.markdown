@@ -25,6 +25,7 @@ A team of Connectors works around the clock to make sure SHIFT’s on-ground ope
 Simply put, our Connectors make sure SHIFT works. If being a Connector sounds like a lot of responsibility, that’s because it is. And SHIFT has set a high bar to ensure that every Connector is up to the task. 
 
 Before hiring a Connector, SHIFT does a thorough background check encompassing local, state, and federal databases, including criminal records, the sex offender registry, and driving records. Specifically, an applicant’s Motor Vehicle Report cannot show: 
+
 1. any history of impaired driving
 2. any major moving violation over the past three years
 3. more than three minor infractions over the past three years. 
