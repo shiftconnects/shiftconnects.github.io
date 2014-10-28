@@ -10,17 +10,17 @@ When you think about SHIFT, you probably imagine our unique vehicles, awesome mo
 
 A team of Connectors works around the clock to make sure SHIFT’s on-ground operations function smoothly and safely. So, what does a Connector do? Anything a member needs for SHIFT to integrate seamlessly with your life. Our Connectors provide a variety of tasks, many of which you may not realize. They:
 
-# make sure vehicles and bicycles are properly distributed throughout the city
-# make sure vehicles and bicycles are mechanically sound
-# keep the interior and exterior of vehicles clean
-# rotate vehicles through our Nerve Center so they have enough electric charge (or gasoline, if applicable) to get you to your destination 
-# maintain the cleanliness and security of our stations
-# provide roadside assistance whenever a vehicle or bicycle falters
-# ensure your mobile application, RFID card, and the vehicle hardware are all properly functioning
-# appear on site if you are having any technical difficulties that can’t be resolved remotely
-# answer all phone calls (whether you are asking questions about our services, resolving a problem, or even asking for a restaurant recommendation)
-# provide Valet+ service by delivering your vehicle to you, taking you to your destination, and returning the vehicle on your behalf
-# step up to the plate to take on whatever the task du jour might be to keep SHIFT running smoothly and to keep our members safe, happy and moving
+- make sure vehicles and bicycles are properly distributed throughout the city
+- make sure vehicles and bicycles are mechanically sound
+- keep the interior and exterior of vehicles clean
+- rotate vehicles through our Nerve Center so they have enough electric charge (or gasoline, if applicable) to get you to your destination 
+- maintain the cleanliness and security of our stations
+- provide roadside assistance whenever a vehicle or bicycle falters
+- ensure your mobile application, RFID card, and the vehicle hardware are all properly functioning
+- appear on site if you are having any technical difficulties that can’t be resolved remotely
+- answer all phone calls (whether you are asking questions about our services, resolving a problem, or even asking for a restaurant recommendation)
+- provide Valet+ service by delivering your vehicle to you, taking you to your destination, and returning the vehicle on your behalf
+- step up to the plate to take on whatever the task du jour might be to keep SHIFT running smoothly and to keep our members safe, happy and moving
 
 Simply put, our Connectors make sure SHIFT works. If being a Connector sounds like a lot of responsibility, that’s because it is. And SHIFT has set a high bar to ensure that every Connector is up to the task. 
 
