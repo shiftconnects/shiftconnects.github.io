@@ -20,10 +20,10 @@ Amidst building a formidable technology stack, a 24/7 member support team, a cir
 
 So we're taking a cue from Prince and dropping our name altogether. 
 
-The company formerly known as SHIFT is now <img src="/public/images/0474.png" width="10px" />.
+The company formerly known as SHIFT is now <img src="/public/images/0474.png" width="20px" />.
 
 Why bother trying to put into words a mission so large. Emojis are so much more expressive, at least that's what our millennial consultant keeps trying to tell us. 
 
 It’s likely we’ll follow Prince’s lead and do this all over again in a few months. We like to keep things fresh and talking about our name occupies the time.
 
-#<img src="/public/images/0474.png" width="10px" />happens
+\#<img src="/public/images/0474.png" width="20px" />happens
