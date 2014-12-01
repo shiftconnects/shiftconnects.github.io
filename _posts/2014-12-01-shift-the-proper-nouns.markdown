@@ -1,0 +1,29 @@
+---
+published: true
+title: The Company Formerly Known as SHIFT
+layout: post
+category: ceo
+---
+*From Zach Ware, CEO*
+
+<img src="/public/images/0474.png" />
+
+If prince can do it so can we. 
+
+There are many things that define your brand. Your customer experience, your culture, your drive to constantly innovate, your name.
+
+Over the past year we’ve built the first in-car hardware system to integrate with Teslas (and smarts, volts, bikes and twizys). We launched in Beta with cars available within five minutes, always. Our trolley and bikes are in their final stages of preparation to serve our members. One beta member said recently "I've been able to get any where I need to go with one push of a button on my cell. Really it's the most amazing technological event I've ever been apart of."
+
+We’re proud of what we’ve been able to do in a year. But of all the milestones we’ve hit, the thing we spend the most time thinking about is our name. It keeps us up at night. You might recall that when we launched, we had a placeholder name, Project 100. Nearing launch, we felt it important to align our brand with what we believed we could do. We want to shift the way you connect with the things that matter in your life. After A LOT of agonizing conversations we settled on SHIFT mainly because we liked saying Shift Happens. But the decision haunts us still. 
+
+Amidst building a formidable technology stack, a 24/7 member support team, a circulator trolley, commuter rides and other things that matter for the future of mobility in Las Vegas, we still found ourselves spending hours talking about our name. We want our name to reflect who we are and what we do.
+
+So we're taking a cue from Prince and dropping our name altogether. 
+
+The company formerly known as SHIFT is now <img src="/public/images/0474.png" width="10px" />.
+
+Why bother trying to put into words a mission so large. Emojis are so much more expressive, at least that's what our millennial consultant keeps trying to tell us. 
+
+It’s likely we’ll follow Prince’s lead and do this all over again in a few months. We like to keep things fresh and talking about our name occupies the time.
+
+#<img src="/public/images/0474.png" width="10px" />happens
