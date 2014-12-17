@@ -1,0 +1,13 @@
+---
+published: true
+title: Dave Test
+layout: post
+category: CEO-Blog
+---
+
+Hello!
+
+<img src="/public/images/show-1.png" width="600" />
+<img src="/public/images/show-2.png" width="600" />
+<img src="/public/images/show-3.png" width="600" />
+<img src="/public/images/show-4.png" width="600" />
